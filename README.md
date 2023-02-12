@@ -7,18 +7,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Ivanova0880's+Github+Profile..)](https://git.io/typing-svg)
 
 
-- 💻 I’m currently working on Flutter and Dart
-- 🎓 I’m currently learning Flutter and Dart improvements
+<br /> 💻 I’m currently working on Flutter and Dart
+<br /> 🎓 I’m currently learning Flutter and Dart improvements
 
-  #### Ask me anything about~
+#### Ask me anything about~
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?flat&logo=python&logoColor=white)
 
+   
 ### Connect with me:
-- <a href="https://www.linkedin.com/in/ivanova0880" target="blank">LinkedIn</a>
-- <a href="https://t.me/natalyaivanova0880" target="blank">Telegram</a>
-- <a href="ivanova0880@gmail.com" target="blank">E-mail</a>
+<br /> <a href="https://www.linkedin.com/in/ivanova0880" target="blank">LinkedIn</a>
+<br /> <a href="https://t.me/natalyaivanova0880" target="blank">Telegram</a>
+<br /> <a href="ivanova0880@gmail.com" target="blank">E-mail</a>
 
 
 ### Technologies:
